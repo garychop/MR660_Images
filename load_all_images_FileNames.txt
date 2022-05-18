@@ -1,0 +1,133 @@
+By: G. Chopcinski
+Date: Nov 29, 2021
+
+The following is derived from the Load_all_images.bat file and the image directory entries.
+
+These images ARE being loaded.
+
+Clock_Image_Full_0_0_Rev3.bmp "Clock Image Full"    We have this image
+MuReva_Logo_Rev2.bmp "Mureva logo"                  We have this image
+Clock_Image_60_152_3_Rev3.bmp "Clock Image 60"      We have this image
+Clock_Image_59_153_3_Rev3.bmp "Clock Image 59"      We have this image
+Clock_Image_58_156_4_Rev3.bmp "Clock Image 58"      We have this image
+Clock_Image_57_166_6_Rev3.bmp "Clock Image 57"      We have this image
+Clock_Image_56_175_8_Rev3.bmp "Clock Image 56"      We have this image
+Clock_Image_55_179_13_Rev3.bmp "Clock Image 55"     We have this image
+Clock_Image_54_177_18_Rev3.bmp "Clock Image 54"     We have this image
+Clock_Image_53_191_25_Rev3.bmp "Clock Image 53"     We have this image
+Clock_Image_52_197_32_Rev3.bmp "Clock Image 52"     We have this image
+Clock_Image_51_199_40_Rev3.bmp "Clock Image 51"     We have this image
+Clock_Image_50_202_48_Rev3.bmp "Clock Image 50"     We have this image
+Clock_Image_49_202_57_Rev3.bmp "Clock Image 49"     We have this image
+Clock_Image_48_209_69_Rev3.bmp "Clock Image 48"     We have this image
+Clock_Image_47_211_80_Rev3.bmp "Clock Image 47"     We have this image
+Clock_Image_46_211_90_Rev3.bmp "Clock Image 46"     We have this image
+Clock_Image_45_213_104_Rev3.bmp "Clock Image 45"    We have this image
+Clock_Image_44_214_112_Rev3.bmp "Clock Image 44"    We have this image
+Clock_Image_43_215_121_Rev3.bmp "Clock Image 43"    We have this image
+Clock_Image_42_212_127_Rev3.bmp "Clock Image 42"    We have this image
+Clock_Image_41_209_136_Rev3.bmp "Clock Image 41"    We have this image
+Clock_Image_40_207_142_Rev3.bmp "Clock Image 40"    We have this image
+Clock_Image_39_203_149_Rev3.bmp "Clock Image 39"    We have this image
+Clock_Image_38_200_152_Rev3.bmp "Clock Image 38"    We have this image
+Clock_Image_37_197_158_Rev3.bmp "Clock Image 37"    We have this image
+Clock_Image_36_192_162_Rev3.bmp "Clock Image 36"    We have this image
+Clock_Image_35_188_166_Rev3.bmp "Clock Image 35"    We have this image
+Clock_Image_34_181_171_Rev3.bmp "Clock Image 34"    We have this image
+Clock_Image_33_175_175_Rev3.bmp "Clock Image 33"    We have this image
+Clock_Image_32_167_178_Rev3.bmp "Clock Image 32"    We have this image
+Clock_Image_31_162_178_Rev3.bmp "Clock Image 31"    We have this image
+Clock_Image_30_154_180_Rev3.bmp "Clock Image 30"    We have this image
+Clock_Image_29_145_180_Rev3.bmp "Clock Image 29"    We have this image
+Clock_Image_28_133_179_Rev3.bmp "Clock Image 28"    We have this image
+Clock_Image_27_120_176_Rev3.bmp "Clock Image 27"    We have this image
+Clock_Image_26_109_174_Rev3.bmp "Clock Image 26"    We have this image
+Clock_Image_25_100_170_Rev3.bmp "Clock Image 25"    We have this image
+Clock_Image_24_90_166_Rev3.bmp "Clock Image 24"     We have this image
+Clock_Image_23_82_162_Rev3.bmp "Clock Image 23"     We have this image
+Clock_Image_22_74_157_Rev3.bmp "Clock Image 22"     We have this image
+Clock_Image_21_66_152_Rev3.bmp "Clock Image 21"     We have this image
+Clock_Image_20_60_147_Rev3.bmp "Clock Image 20"     We have this image
+Clock_Image_19_55_141_Rev3.bmp "Clock Image 19"     We have this image
+Clock_Image_18_51_133_Rev3.bmp "Clock Image 18"     We have this image
+Clock_Image_17_48_129_Rev3.bmp "Clock Image 17"     We have this image
+Clock_Image_16_46_121_Rev3.bmp "Clock Image 16"     We have this image
+Clock_Image_15_45_114_Rev3.bmp "Clock Image 15"     We have this image
+Clock_Image_14_45_104_Rev3.bmp "Clock Image 14"     We have this image
+Clock_Image_13_46_92_Rev3.bmp "Clock Image 13"      We have this image
+Clock_Image_12_47_80_Rev3.bmp "Clock Image 12"      We have this image
+Clock_Image_11_50_69_Rev3.bmp "Clock Image 11"      We have this image
+Clock_Image_10_54_59_Rev3.bmp "Clock Image 10"      We have this image
+Clock_Image_9_59_49_Rev3.bmp "Clock Image 9"        We have this image
+Clock_Image_8_65_40_Rev3.bmp "Clock Image 8"        We have this image
+Clock_Image_7_72_31_Rev3.bmp "Clock Image 7"        We have this image
+Clock_Image_6_80_24_Rev3.bmp "Clock Image 6"        We have this image
+Clock_Image_5_89_18_Rev3.bmp "Clock Image 5"        We have this image
+Clock_Image_4_99_13_Rev3.bmp "Clock Image 4"        We have this image
+Clock_Image_3_109_8_Rev3.bmp "Clock Image 3"        We have this image
+Clock_Image_2_119_5_Rev3.bmp "Clock Image 2"        We have this image
+Clock_Image_1_131_3_Rev3.bmp "Clock Image 1"        We have this image
+Clock_Image_0.bmp "Clock Image 0"                   We have this image
+White_Text_Box.bmp "White Text Box"                 We have this image
+big_paused_overlay.bmp "Big Paused"                 We have this image
+min_9.bmp "9 min"                                   We have this image
+min_8.bmp "8 min"                                   We have this image
+min_7.bmp "7 min"                                   We have this image
+min_6.bmp "6 min"                                   We have this image
+min_5.bmp "5 min"                                   We have this image
+min_4.bmp "4 min"                                   We have this image
+min_3.bmp "3 min"                                   We have this image
+min_2.bmp "2 min"                                   We have this image
+min_1.bmp "1 min"                                   We have this image
+min_0.bmp "0 min"                                   We have this image
+min_9_small.bmp "9 min small"                       We have this image
+min_8_small.bmp "8 min small"                       We have this image
+min_7_small.bmp "7 min small"                       We have this image
+min_6_small.bmp "6 min small"                       We have this image
+min_5_small.bmp "5 min small"                       We have this image
+min_4_small.bmp "4 min small"                       We have this image
+min_3_small.bmp "3 min small"                       We have this image
+min_2_small.bmp "2 min small"                       We have this image
+min_1_small.bmp "1 min small"                       We have this image
+min_0_small.bmp "0 min small"                       We have this image
+min_empty_small.bmp "erase small minutes"           We have this image
+screensaver.bmp "screensaver"                       We have this image
+
+------------------------------------------------------------------------------------------------------------------
+These are the images that are NOT being loaded.
+
+unknown_error.bmp "Unknown error"                   We DO NOT have this image
+mca_detached.bmp "MCA detached"                     We DO NOT have this image
+temp_too_high.bmp "Temp too high"                   We DO NOT have this image
+current_too_high.bmp "Current too high"             We DO NOT have this image
+current_too_low.bmp "Current too low"               We DO NOT have this image
+current_source_error.bmp "Current source error"     We DO NOT have this image
+software_watchdog_timeout.bmp "Software watchdog timeout"   We DO NOT have this image
+hardware_watchdog_timeout.bmp "Hardware watchdog timeout"   We DO NOT have this image
+error_watchdog_enable.bmp "Hardware watchdog enable error"  We DO NOT have this image
+error_therapy_on.bmp "Therapy on error"             We DO NOT have this image
+error_start_wdog.bmp "Start watchdog error"         We DO NOT have this image
+error_24VDC.bmp "24VDC error"                       We DO NOT have this image
+error_5VDC.bmp "5VDC error"                         We DO NOT have this image
+error_33VDC.bmp "3.3VDC error"                      We DO NOT have this image
+alarm_error.bmp "Alarm error"                       We DO NOT have this image
+rgb_led_error.bmp "RGB LED error"                   We DO NOT have this image
+lcd_error.bmp "LCD error"                           We DO NOT have this image
+fan_error.bmp "Fan error"                           We DO NOT have this image
+flash_mem_error.bmp "Flash memory error"            We DO NOT have this image
+led_board_eeprom_error.bmp "LED board EEPROM error" We DO NOT have this image
+pushbutton_error.bmp "Pushbutton error"             We DO NOT have this image
+current_level_error.bmp "Current level error"       We DO NOT have this image
+i2c_error.bmp "I2C error"                           We DO NOT have this image
+battery_error.bmp "Battery Error"                   We DO NOT have this image
+MCA_reading_error.bmp "MCA Reading Error"           We DO NOT have this image
+mca_expired.bmp "MCA Expired"                       We DO NOT have this image
+mca_period_error.bmp "MCA Period Error"             We DO NOT have this image
+Reading_MCA.bmp "Reading MCA"                       We DO NOT have this image
+paused_overlay.bmp "Paused"                         We DO NOT have this image
+insert_MCA.bmp "Insert MCA Prompt"                  We DO NOT have this image
+ready.bmp "Ready Prompt"                            We DO NOT have this image
+therapy_complete.bmp "Therapy complete"             We DO NOT have this image
+startup_error.bmp "startup error"                   We DO NOT have this image
+
+
