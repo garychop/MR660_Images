@@ -44,7 +44,8 @@ REM
 IF /I "%DO_ALL_IMAGES%" EQU "1" (
     REM   -------------------------------------------------------------------------------------------------- Full screen images
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/MuReva_Logo_Rev2.bmp "Mureva logo" 1000 2300 0 0
-    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_Full_0_0_Rev3.bmp "Clock Image Full" 4000 1100 0 0
+    REM %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_Full_0_0_Rev3.bmp "Clock Image Full" 4000 1100 0 0
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_Full_Small.bmp "Clock Image Full" 4000 1100 43 0
     REM   --------------------------------------------------------------------------------------------------
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/InsertMouthpiece_Text.bmp "Insert MCA Text" 2000 1700 76 88
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Reading_Text.bmp "Reading Text" 2001 1780 76 92
@@ -52,6 +53,12 @@ IF /I "%DO_ALL_IMAGES%" EQU "1" (
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/PressToStartTherapy_Text.bmp "Press Start" 2003 2026 78 53
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/MCA_ReadingError_Text.bmp "Read Error" 2004 2900 96 68
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Red_Text_Box.bmp "Red Box" 2005 3006 66 46
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/MouthpieceExpired_Text.bmp "MCA Expired" 2006 3230 76 92
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/MouthpieceDetached_Text.bmp "MCA Unplugged" 2007 3305 96 68
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Paused_Text.bmp "Paused" 2008 3412 126 72
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Blank_60x16.bmp "Blank 60x16" 2009 3420 125 70
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/TherapyComplete_Text.bmp "Therapy Complete" 2010 3430 104 88
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/MouthpieceDailyLimit_Text.bmp "Daily Limit" 2011 3480 76 78
     REM   --------------------------------------------------------------------------------------------------Clock images
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_60_152_3_Rev3.bmp "Clock Image 60" 4060 4700 152 3
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_59_153_3_Rev3.bmp "Clock Image 59" 4059 4708 153 3
