@@ -185,7 +185,7 @@ IF /I "%DO_ALL_IMAGES%" EQU "1" (
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/min_1_small.bmp "1 min small" 6101 7780 110 156
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/min_0_small.bmp "0 min small" 6100 7800 110 156
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/min_empty_small.bmp "erase small minutes" 6110 7820 110 156
-    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/screensaver.bmp "screensaver" 2100 7840 170 156
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/ScreenSaver_Lg.bmp "Screen Saver" 2100 7840 170 156
 )
 
 REM    Show the current images information after initialization
