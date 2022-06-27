@@ -59,6 +59,7 @@ IF /I "%DO_ALL_IMAGES%" EQU "1" (
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Blank_60x16.bmp "Blank 60x16" 2009 3420 125 70
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/TherapyComplete_Text.bmp "Therapy Complete" 2010 3430 104 88
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/MouthpieceDailyLimit_Text.bmp "Daily Limit" 2011 3480 76 78
+    %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/PressToResumeTherapy_Text.bmp "Resume Therapy" 2012 3590 78 53
     REM   --------------------------------------------------------------------------------------------------Clock images
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_60_152_3_Rev3.bmp "Clock Image 60" 4060 4700 152 3
     %PYTHON_PATH% Load_Bitmap.py %PORT% %SPEED% %IMAGE_PATH%/Clock_Image_59_153_3_Rev3.bmp "Clock Image 59" 4059 4708 153 3
